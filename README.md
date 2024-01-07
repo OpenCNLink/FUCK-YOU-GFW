@@ -1,11 +1,11 @@
 # FUCK-YOU-GFW: A Joint Protest against China's Internet Firewall and Registration System
 
 <p>
-	<a href="https://github.com/OpenCNLink/freevpn">Free VPNs</a>
+	<a href="https://githubfast.com/OpenCNLink/freevpn">Free VPNs</a>
 	|
-	<a href="https://github.com/OpenCNLink/json2vmess">JSON To Vmess</a>
+	<a href="https://githubfast.com/OpenCNLink/json2vmess">JSON To Vmess</a>
 	|
-	<a href="https://github.com/OpenCNLink">Github organizations</a>
+	<a href="https://githubfast.com/OpenCNLink">Github organizations</a>
 </p>
 
 
@@ -28,6 +28,7 @@ In conclusion, we stand united in our opposition to China's Great Firewall and r
 Signed,
 
 - Jankie
+- aztice
 - (If you want to join,commit this repository)
 
 2024/1/7 16:36:45 UTC+8:00
